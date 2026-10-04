@@ -1,6 +1,6 @@
 # Hi there, I'm Abhiram Krishna S 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhiram--krishna--s-blue?style=flat&logo=linkedin)](https://https://www.linkedin.com/in/abhiram-krishna-s-391ba0238/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhiram--krishna--s-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhiram-krishna-s-391ba0238/)
 
 **Software Engineer** based in Bengaluru, India[cite: 1]. Passionate about building robust, high-performance web and mobile applications[cite: 1]. Experienced in resolving production-grade challenges, architecting scalable frontends, and connecting software with IoT and AI systems[cite: 1].
 
